@@ -124,7 +124,7 @@ export const Dashboard = () => {
 
                     </IconButton>
                     <Typography variant='h6' noWrap>Dashboard</Typography>
-                    <Button sx={myStyles.toolbarButton}>Create New Drone</Button>
+                    <Button sx={myStyles.toolbarButton}>Create New Car</Button>
                 </Toolbar>
             </AppBar>
             <MUIDrawer

@@ -52,7 +52,7 @@ export const DataTable = () => {
     const droneData = serverCalls.get();
     return (
       <div style={{ height: 400, width: '100%' }}>
-          <h2>Drones In Inventory</h2>
+          <h2>Project D Inventory</h2>
         <DataGrid
           rows={rows}
           columns={columns}
